@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(131, 201, 248);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.itens{
+    margin: 50px;
+    background-color: white;
+}
+.colunaum{
+    display: flex;
+    grid-template-columns: 200px 400px;
+}
+img{
+    width: 400px;
+    height: 320px;
+}
+.colunadois{
+    display: flex;
+    grid-template-columns: 200px 400px;
+}
+h2{
+    color: rgb(131, 201, 248);
+}
